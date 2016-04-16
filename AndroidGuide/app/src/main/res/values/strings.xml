@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Android Guide</string>
+
+    <string name="hello_world">Hello Everyone, I\'m Gaurav Patel and this is my android Lab 3.</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_help">Help</string>
+    <string name="action_about">About</string>
+
+    <string name="button_website">Websites</string>
+    <string name="button_terminology">Terminology</string>
+
+    <string name="help_text">Terminology Button: Talks about concepts implemented in this app and gives brief description about it.</string>
+    <string name="about_text">Websites Button: Redirects you to google website.</string>
+
+    <string name="about_me">Name: Gaurav Patel<br /> Program: Computer Programming Analysis <br />College: Seneca College</string>
+
+    <string name="title_activity_help_activity">help_activity</string>
+    <string name="title_activity_about_activity">about_activity</string>
+    <string name="title_activity_terminology">Terminology</string>
+
+    <string name="terminology_text">Hay you opened up terminology page on foreground.</string>
+
+
+    <string-array name="name">
+    <item>adb</item>
+    <item>emulator</item>
+    <item>android</item>
+    </string-array>
+
+    <string-array name="def">
+    <item>- adb allows us to connect/interact or go in to our AVD. Commands such as "adb shell"</item>
+    <item>- Using the emulator command, we can run the AVD through command line.</item>
+    <item>- We used android list avd to list our android virtual devices.</item>
+    </string-array>
+
+</resources>

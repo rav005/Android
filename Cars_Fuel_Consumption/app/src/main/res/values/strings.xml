@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cars Fuel Consumption</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_search">Search</string>
+    <string name="title_activity_test">test</string>
+    <string name="title_activity_cars">Cars</string>
+    <string name="title_activity_browse">Browse</string>
+    <string name="title_activity_fuel_car_detail">FuelCarDetail</string>
+    <string name="title_activity_hybrid_car_detail">HybridCarDetail</string>
+    <string name="title_activity_electric_car_detail">ElectricCarDetail</string>
+    <string name="title_activity_web_view">WebView</string>
+    <string name="title_activity_web_search">WebSearch</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_help">Help</string>
+</resources>
